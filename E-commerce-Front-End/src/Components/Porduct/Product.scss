@@ -1,0 +1,43 @@
+.Product{
+    width : 100% ; 
+    height : 25vh ;
+    background-color: white ;
+    padding : 10px ; 
+    border-radius : 5px ;
+    margin-top : 10px
+}
+
+.Image {
+    width : 25%;
+    height : 100% ; 
+    float : left ; 
+    text-align : center
+}
+
+.Name {
+    width : 50%  ; 
+    height : 100% ; 
+    float : left ; 
+    padding : 5px ; 
+    overflow : hidden ; 
+}
+
+.Description {
+    width : 25% ; 
+    height : 50% ; 
+    float : left ; 
+    button {
+        float : right ; 
+        margin-Left : 10px
+    }
+}
+
+.Price {
+    width : 25%  ;  
+    height : 50% ;  
+    float : left ; 
+    text-align : right ; 
+    font-size : 20px ;
+    padding-right : 5px ; 
+    font-weight : bold
+}
