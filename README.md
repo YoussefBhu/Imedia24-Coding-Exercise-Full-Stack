@@ -15,7 +15,7 @@
 -   axios
 -   ant design
 
-## Technologies used 
+## Swagger documentation
 ```sh
 http://localhost:8080/swagger-ui.html
 ```
